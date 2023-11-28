@@ -1,0 +1,4 @@
+requests~=2.31.0
+dateparser~=1.2.0
+aiogram~=3.2.0
+python-dotenv~=1.0.0
